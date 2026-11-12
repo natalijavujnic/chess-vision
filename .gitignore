@@ -1,0 +1,29 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated output
+output/
+
+# Video files
+videos/
+*.mp4
+*.mov
+*.avi
+
+# IDE
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Testing / cache
+.pytest_cache/
+
+# Environment variables
+.env
